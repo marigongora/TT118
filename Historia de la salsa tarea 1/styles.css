@@ -1,0 +1,79 @@
+h1{display:flex;
+justify-content:center;
+height: 70px;
+font-size: 250%;}
+
+
+.imgintroduccion {
+    display:flex;
+    height: 20 px;
+    position:relative;
+    left: 20%;
+}
+
+.introduccion { border: 1rem solid;
+color:rgb(2, 2, 2);}
+
+
+h2 {
+    display:flex;
+    justify-content: center;
+    height: 20px;
+    text-size-adjust: 200px;
+}
+
+body {
+    background-color: rgb(142, 163, 163);
+}
+
+/* p {
+    display:flex;
+    flex-direction:row;
+    justify-content: left;
+} */
+
+.imagensalsa { 
+    
+    width: 120%;
+}
+
+.history { 
+    display:flex;
+    height: 20 px;
+    position: initial;
+    left: 20px;
+    width: 120%;
+    font-size: 130%;
+    gap: 50px;}
+
+    
+
+.parte1 {
+    width: 30%;   
+    border: 20px rgba(89, 0, 255, 0.151);
+    text-align:justify;
+}
+
+h3{
+display:flex;
+justify-content:center;
+height: 20px;
+font-size: 200%;
+}
+
+.parte2 {
+    border: 10px solid rgba(89, 0, 255, 0.151);
+    display: flex; 
+    justify-content:left;
+    align-items:flex-end;
+    gap: 20px;
+    font-size: 150%;
+}
+
+.bailadores {
+    display:flex;
+    height: 20 px;
+    position: initial;
+    left: 20px;
+    width: 120%;
+}
